@@ -29,6 +29,10 @@ Containing SpecFlow Feature files (ApiTest, UserRegistration, ValidateSingleUser
 Containing all the step files for the features (ApiTest, UserRegistrationSteps, ValidateSingleUserRegistrationSteps and ValidUserLoginSteps).
 
 
+![image](https://user-images.githubusercontent.com/68798285/167316640-14cfdadd-82b3-436c-9735-3f204310aa77.png)
+
+
+
 Chromedriver is downloaded from : https://chromedriver.chromium.org/downloads
 
 #### Note: Make sure the chromedriver version should be same as version of Chrome installed in your PC.
