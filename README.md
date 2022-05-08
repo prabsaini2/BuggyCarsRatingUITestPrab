@@ -3,7 +3,7 @@ This selenium based C# automation project caters to UI automation of different f
 ## About the Project
 This is a C# Specflow project: BuggyCarsRatingUiAutomation.
 
-Test Approach document:
+Test Approach document: https://github.com/prabsaini2/BuggyCarsRatingUITestPrab/blob/main/TestApproach_BuggyCarApp.docx
 ## Structure:
 
 Solution has Few folders, each containing main classes. 
